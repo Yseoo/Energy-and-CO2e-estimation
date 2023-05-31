@@ -1,4 +1,4 @@
-# Energy-and-CO2e-estimation
+# Energy-and-CO2e-estimation, ML bias
 
 This repository correspond to the final project in the [HUM-433: How people learn: Designing Learning Tools II](https://edu.epfl.ch/coursebook/en/how-people-learn-designing-learning-tools-ii-HUM-433).
 We present ressources to address ethical concern in computer science field, mainly the **energy consumption and CO2e footprint** and the **bias in machine learning algorithms**.
